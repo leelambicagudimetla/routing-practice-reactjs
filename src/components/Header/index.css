@@ -1,0 +1,29 @@
+/* Write your CSS code here */
+.nav-header {
+  border-color: #12022f;
+  border-width: 15px;
+  border-radius: 10px;
+  margin: 50px;
+}
+.blog-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.nav-menu {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  list-style-type: none;
+}
+.nav-link {
+  margin-left: 10px;
+}
+.wave-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.wave {
+  margin-left: 5px;
+}
